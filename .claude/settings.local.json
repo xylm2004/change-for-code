@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(where gcc *)",
+      "Bash(where clang *)",
+      "Bash(where cl *)",
+      "Bash(where cc *)"
+    ]
+  }
+}
