@@ -4,7 +4,8 @@
       "Bash(where gcc *)",
       "Bash(where clang *)",
       "Bash(where cl *)",
-      "Bash(where cc *)"
+      "Bash(where cc *)",
+      "Skill(claude-hud:configure)"
     ]
   }
 }
